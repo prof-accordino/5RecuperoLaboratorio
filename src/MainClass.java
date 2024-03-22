@@ -14,19 +14,16 @@ public class MainClass
 			{
 				case 1:
 					es1();
-				break;
+					break;
 				case 2:
 					es2();
-				break;
+					break;
 				case 3:
 					es3();
-				break;
+					break;
 				case 4:
 					es4();
-				break;
-				case 5:
-					es5();
-				break;
+					break;
 				default:
 					System.out.println("Scelta errata, riprova!");
 
@@ -62,10 +59,5 @@ public class MainClass
 	static void es4()
 	{
 		// Inserire codice es. 4	
-	}
-	
-	static void es5()
-	{
-		// Inserire codice es. 5	
 	}
 }
